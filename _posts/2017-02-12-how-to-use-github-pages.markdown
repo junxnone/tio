@@ -39,20 +39,19 @@ git push origin master
 此刻可查看 xxx.github.io 是否能访问
 
 ### 7 写文章
-- 新建文章放在./_posts 文件夹中
+- 新建文章放在_posts文件夹中
 - 文件命名需要使用yyyy-mm-dd-xxxx-xx-xxx.xxx格式，支持markdown, html, textile (建议使用markdown)
-- 以下--- 之间的部分勿删除，layout 勿改，其他可改动
-> ---
-> layout: post
-> title:  "使用 github + jekyll 搭建个人博客"
-> date:   2016-07-24 21:41:45 +0800
-> categories: share
-> ---
+- 以下\---之间的部分勿删除，layout 勿改，其他可改动
+
+> layout: post  
+title:  "使用 github + jekyll 搭建个人博客"  
+date:   2016-07-24 21:41:45 +0800  
+categories: share  
 
 ### 8 remarkable
 可以使用本地编辑器: 
-https://remarkableapp.github.io
-
+https://remarkableapp.github.io  
+格式参见[write on github](https://help.github.com/categories/writing-on-github/)
 
 Note. 之前域名做过解析到自己买的域名，结果改回来后一直不行，最后删除本地cookie 解决问题。
 
