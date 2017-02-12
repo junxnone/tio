@@ -17,3 +17,5 @@ github_username:  52osworld
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-dinky
