@@ -50,9 +50,8 @@ date:   2016-07-24 21:41:45 +0800
 categories: share  
 
 ### 8 remarkable
-可以使用本地编辑器: 
-https://remarkableapp.github.io  
-格式参见[write on github](https://help.github.com/categories/writing-on-github/)
+可以使用本地编辑器:[remarkable](https://remarkableapp.github.io)     
+格式参见[write on github](https://help.github.com/categories/writing-on-github/)  
 
 Note. 之前域名做过解析到自己买的域名，结果改回来后一直不行，最后删除本地cookie 解决问题。
 
