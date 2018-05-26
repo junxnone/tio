@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: My Share
+title: Log
 email: junx.chen@foxmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Hello! Guys,Enjoy it!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-github_username:  52osworld
+github_username:  junxnone
 
 # Build settings
 markdown: kramdown
