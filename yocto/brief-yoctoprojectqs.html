@@ -10,7 +10,11 @@
                     </p></li></ul></div><p>
         </p></div><div class="section" title="构建主机包"><div class="titlepage" xmlns=""><div><div><h2 class="title" xmlns="http://www.w3.org/1999/xhtml" style="clear:both"><a id="brief-build-system-packages"></a>构建主机需要安装的包<span class="permalink"><a alt="永久链接" title="永久链接" href="https://www.yoctoproject.org/docs/2.5/brief-yoctoprojectqs/brief-yoctoprojectqs.html#brief-build-system-packages">¶</a></span></h2></div></div></div><p>您必须在您的构建主机上安装基本主机软件包。以下命令根据Ubuntu发行版安装主机软件包：</p><div class="note" title="注意" style="margin-left:0.5in;margin-right:0.5in"><h3 class="title">注意</h3>关于所有受支持Linux发行版的主机软件包要求，请参考“Yocto项目参考手册”中的“ <a class="ulink" href="http://www.yoctoproject.org/docs/2.5/ref-manual/ref-manual.html#required-packages-for-the-host-development-system" target="_top">主机开发系统的必需软件包</a> ”部分。
             </div><p>
-            </p><pre class="literallayout">$ sudo apt-get install gawk wget git-core diffstat unzip texinfo gcc-multilib \ build-essential chrpath socat cpio python python3 python3 -pip python3-pexpect xz-utils debianutils iputils -sys libsdl1.2-dev xterm</pre><p>
+            </p><pre class="literallayout">
+     $ sudo apt-get install gawk wget git-core diffstat unzip texinfo gcc-multilib \
+     build-essential chrpath socat cpio python python3 python3-pip python3-pexpect \
+     xz-utils debianutils iputils-ping libsdl1.2-dev xterm
+            </pre><p>
         </p></div><div class="section" title="使用Git克隆Poky"><div class="titlepage" xmlns=""><div><div><h2 class="title" xmlns="http://www.w3.org/1999/xhtml" style="clear:both"><a id="brief-use-git-to-clone-poky"></a>使用git克隆Poky<span class="permalink"><a alt="永久链接" title="永久链接" href="https://www.yoctoproject.org/docs/2.5/brief-yoctoprojectqs/brief-yoctoprojectqs.html#brief-use-git-to-clone-poky">¶</a></span></h2></div></div></div><p>完成机器的设置指令后，您需要在主机上获得Poky仓库。使用以下命令克隆Poky仓库，然后checkout 出 yocto-2.5版本：</p><pre class="literallayout">
      $ git clone git://git.yoctoproject.org/poky
      Cloning into 'poky'...
