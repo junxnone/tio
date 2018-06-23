@@ -5,3 +5,6 @@
 - [ ] Yocto
   - [x] [Yocto 项目简介](https://junxnone.github.io/yocto/brief-yoctoprojectqs.html)
   - [x] [关于Yocto，应该知道什么](https://junxnone.github.io/yocto/what-i-wish-id-known.html)
+  - [ ] transitioning-to-a-custom-environment
+  - [ ] bitbake-user-manual
+  - [ ] dev-manual
