@@ -1,10 +1,12 @@
 Update 2018.07.12...
 
-# KVM
-- [ ] Ubuntu 安装使用
+# KVM  
+- [ ] Ubuntu 安装使用  
 - [ ] Passtough 网卡，USB,显卡 
-# Linux RT Performance
-- [ ] Test Tools : cycletest
+
+# Linux RT Performance  
+- [ ] Test Tools : cycletest  
+
 # [Yocto](https://github.com/junxnone/yocto4intel-corei7-64/wiki)
 - [ ] Yocto: 添加新layer，recipe
 - [ ] 添加rpm package 作为 recipe source
@@ -13,14 +15,15 @@ Update 2018.07.12...
 - [ ] Ubuntu 安装指定版本的Docker
 - [ ] Docker 打包与部署
 
-# Raspberry PI
-- [Raspberry PI](https://github.com/junxnone/junxnone.github.io/wiki/Raspberrypi-Install-raspbian)
+# Raspberry PI  
+- [x] [Raspberrypi Install raspbian](https://github.com/junxnone/junxnone.github.io/wiki/Raspberrypi-Install-raspbian)
 - [ ] Raspberry tomcat + opengrok
 - [ ] Raspberry 文件共享
 - [ ] Raspberry Docker
 
-# OpenVINO
-> Open Visual Inference & Neural Network Optimization  
+# OpenVINO  
+ Open Visual Inference & Neural Network Optimization
+
 - [ ] OpenVINO install and run demo
 - [ ] OpenVINO MO - Model Optimizer
 - [ ] OpenVINO IE - Inference Engine
@@ -31,5 +34,6 @@ Update 2018.07.12...
 
 # ACRN
 - [ ] ACRN Install 
+
 # ESP32
  
