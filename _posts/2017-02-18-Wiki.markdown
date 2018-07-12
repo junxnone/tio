@@ -17,9 +17,12 @@ Update 2018.07.12...
 
 # Raspberry PI  
 - [x] [Raspberrypi Install raspbian](https://github.com/junxnone/junxnone.github.io/wiki/Raspberrypi-Install-raspbian)
-- [ ] Raspberry tomcat + opengrok
-- [ ] Raspberry 文件共享
-- [ ] Raspberry Docker
+- [ ] Raspberrypi tomcat + opengrok
+- [ ] Raspberrypi 文件共享
+- [ ] Raspberrypi Docker
+   - [ ] tomcat
+   - [ ] samba
+- [ ] Raspberrypi Camera
 
 # OpenVINO  
  Open Visual Inference & Neural Network Optimization
