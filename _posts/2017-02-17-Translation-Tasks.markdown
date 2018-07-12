@@ -1,4 +1,4 @@
-> Based on [Google Translator Toolkit](https://translate.google.com/toolkit/)
+> Based on [Google Translator Toolkit](https://translate.google.com/toolkit/)  
 # Translation Tasks  
 - [ ] Android Camera [HAL Properties Docs.html](https://android.googlesource.com/platform/system/media/+/master/camera/docs/docs.html)  **Todo**
 - [ ] Android Camera [Google Document](https://source.android.com/devices/camera/index.html)  **Todo**
