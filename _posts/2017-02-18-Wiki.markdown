@@ -1,4 +1,35 @@
-Update 2018.06.17...
-# [Wiki](https://github.com/junxnone/junxnone.github.io/wiki/index)
-- [Yocto](https://github.com/junxnone/yocto4intel-corei7-64/wiki)
-- [Docker](https://github.com/junxnone/junxnone.github.io/wiki/Docker)
+Update 2018.07.12...
+
+# KVM
+- [ ] Ubuntu 安装使用
+- [ ] Passtough 网卡，USB,显卡 
+# Linux RT Performance
+- [ ] Test Tools : cycletest
+# [Yocto](https://github.com/junxnone/yocto4intel-corei7-64/wiki)
+- [ ] Yocto: 添加新layer，recipe
+- [ ] 添加rpm package 作为 recipe source
+
+# [Docker](https://github.com/junxnone/junxnone.github.io/wiki/Docker)
+- [ ] Ubuntu 安装指定版本的Docker
+- [ ] Docker 打包与部署
+
+# Raspberry PI
+- [Raspberry PI](https://github.com/junxnone/junxnone.github.io/wiki/Raspberrypi-Install-raspbian)
+- [ ] Raspberry tomcat + opengrok
+- [ ] Raspberry 文件共享
+- [ ] Raspberry Docker
+
+# OpenVINO
+> Open Visual Inference & Neural Network Optimization  
+- [ ] OpenVINO install and run demo
+- [ ] OpenVINO MO - Model Optimizer
+- [ ] OpenVINO IE - Inference Engine
+
+# Movidius  - the example  
+- [ ] ncsdk - Software Development Kit for the Neural Compute Stick  
+- [ ] ncappzoo - Contains examples for the Movidius Neural Compute Stick.  
+
+# ACRN
+- [ ] ACRN Install 
+# ESP32
+ 
