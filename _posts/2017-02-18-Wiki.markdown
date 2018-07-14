@@ -32,6 +32,7 @@ Update 2018.07.12...
 - [ ] OpenVINO IE - Inference Engine
 
 # Movidius  - the example  
+- [x] [Install ncsdk and Run Demo](https://github.com/junxnone/junxnone.github.io/wiki/Movidius%E2%84%A2-Neural-Compute-Stick)
 - [ ] ncsdk - Software Development Kit for the Neural Compute Stick  
 - [ ] ncappzoo - Contains examples for the Movidius Neural Compute Stick.  
 
