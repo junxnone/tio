@@ -17,4 +17,4 @@ github_username:  junxnone
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
