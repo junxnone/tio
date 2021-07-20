@@ -1,23 +1,15 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+<head>
+  <!--  flutter build web -->
+  <meta charset="UTF-8">
+  <title>bga_issue_blog</title>
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+  <link href="./assets/images/favicon.ico" rel="icon" type="image/x-icon"/>
+  <link href="./assets/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="./assets/images/favicon.ico" rel="bookmark" type="image/x-icon"/>
+</head>
+<body>
+  <script src="main.dart.js" type="application/javascript"></script>
+</body>
+</html>
