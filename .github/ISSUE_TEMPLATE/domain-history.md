@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-# Reference
+## Reference
 
-# History
+## History
 **Pattern**
 ```
 - 2020-05 **[Name]** paper_full_name [[Paper](paperlink)] [[Code](codelink)] [[Note](notelink)] #tags
 ```
 
-## Sub-Domain
+### Sub-Domain
